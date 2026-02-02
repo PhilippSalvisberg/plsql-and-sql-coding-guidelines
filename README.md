@@ -1,3 +1,5 @@
+:warning: **Warning:** This project is no longer maintained! Therefore, it is in archive state!
+
 # Trivadis PL/SQL &amp; SQL Coding Guidelines
 
 ## Introduction
