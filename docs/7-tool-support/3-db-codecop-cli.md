@@ -24,4 +24,4 @@ Here are some screen shot taken from an of an HTML report based on the samples p
 ![File Overview](../images/plsqlcop_file_overview.png)
 ![File Issues](../images/plsqlcop_file_issues.png)
 
-These [HTML](https://trivadis.github.io/plsql-cop-cli/tvdcc_report.html) and [Excel](https://trivadis.github.io/plsql-cop-cli/tvdcc_report.xlsx) reports have been created by db\* CODECOP and are based on a simple set of good and bad example files distributed with db\* CODECOP.
+These [HTML](https://philippsalvisberg.github.io/plsql-cop-cli/tvdcc_report.html) and [Excel](https://philippsalvisberg.github.io/plsql-cop-cli/tvdcc_report.xlsx) reports have been created by db\* CODECOP and are based on a simple set of good and bad example files distributed with db\* CODECOP.
